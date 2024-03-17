@@ -1,0 +1,1 @@
+{"version":3,"file":"timeout.interceptor.js","sourceRoot":"","sources":["../../src/interceptors/timeout.interceptor.ts"],"names":[],"mappings":";;;AACA,+BAA2C;AAE3C,MAAa,kBAAkB;IAC7B,SAAS,CACP,OAAyB,EACzB,IAAsB;QAEtB,OAAO,IAAI,CAAC,MAAM,EAAE,CAAC,IAAI,CAAC,IAAA,cAAO,EAAC,MAAM,CAAC,CAAC,CAAC;IAC7C,CAAC;CACF;AAPD,gDAOC"}
